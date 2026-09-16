@@ -1,0 +1,37 @@
+<svg width="900" height="520" viewBox="0 0 900 520"
+xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="520" rx="40" fill="#111827"/>
+<text x="60" y="80"
+font-family="Arial"
+font-size="36"
+font-weight="bold"
+fill="white">MEBO LAUNDRY</text>
+
+<text x="60" y="150"
+font-family="Arial"
+font-size="22"
+fill="#d1d5db">MEMBER CARD</text>
+
+<text x="60" y="250"
+font-family="Arial"
+font-size="40"
+font-weight="bold"
+fill="white">{{NAMA}}</text>
+
+<text x="60" y="310"
+font-family="Arial"
+font-size="28"
+fill="#d1d5db">{{MEMBER_CODE}}</text>
+
+<text x="60" y="390"
+font-family="Arial"
+font-size="22"
+fill="#9ca3af">{{PHONE}}</text>
+
+<text x="60" y="455"
+font-family="Arial"
+font-size="18"
+fill="#9ca3af">
+Simpan kartu ini untuk transaksi berikutnya.
+</text>
+</svg>

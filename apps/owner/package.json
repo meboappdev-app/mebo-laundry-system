@@ -1,0 +1,33 @@
+{
+  "name": "@mebo/owner",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@mebo/database": "workspace:*",
+    "@mebo/loyalty": "workspace:*",
+    "@mebo/member": "workspace:*",
+    "@mebo/receipt": "workspace:*",
+    "@mebo/ui": "workspace:*",
+    "@mebo/whatsapp": "workspace:*",
+    "@supabase/supabase-js": "2.57.0",
+    "jose": "6.1.0",
+    "next": "15.5.7",
+    "qrcode": "1.5.4",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "html5-qrcode": "2.3.8"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.30",
+    "@types/qrcode": "1.5.5",
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "typescript": "5.9.2"
+  }
+}
